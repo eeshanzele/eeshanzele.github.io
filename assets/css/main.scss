@@ -39,3 +39,15 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Customize text selection color */
+::selection {
+    background-color: #0077b6; /* Blue background */
+    color: white; /* Text color when selected */
+  }
+  
+  ::-moz-selection {
+    background-color: #0077b6; /* Firefox support */
+    color: white;
+  }
+  

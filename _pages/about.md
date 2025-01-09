@@ -9,7 +9,7 @@ redirect_from:
 
 Hello! I am Eeshan, a final year undergraduate in Math and Computer Science, at the [University of Illinois Urbana-Champaign](https://siebelschool.illinois.edu/). I am part of the [Reliable Autonomy Group](https://mitras.ece.illinois.edu/group.html) at Illinois, and am very fortunate to be advised by [Professor Sayan Mitra](https://mitras.ece.illinois.edu/index.html).
 
-My research interests are in developing theory and practical tools to ensure safety and reliability of autonomous systems. I am particularly interested in the intersection of formal methods, control systems, and machine learning. I have been recently working on a problem identifying and resolving blindspots  in hybrid control algorithms using neural network verification and symbolic AI.
+My research interests are in developing theory and practical tools to ensure safety and reliability of autonomous systems. I am particularly interested in the intersection of formal methods, control systems, and machine learning. I have been recently working on a problem identifying and resolving blindspots  in hybrid control systems using neural network verification and symbolic AI.
 
 Beyond academics, enjoy [teaching](https://wiseapp.in/rubiks-cuber/) and [solving](https://www.worldcubeassociation.org/persons/2015ZELE01) Rubik's Cubes, and practicing [Aikido](https://aikidocia.org/).
 

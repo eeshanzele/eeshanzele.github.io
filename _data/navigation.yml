@@ -9,7 +9,7 @@ main:
     url: /projects/
     
   - title: "Resume"
-    url: /files/cv/Resume - Nov 2024.pdf # switch once resume uploaded
+    url: /files/cv/Resume - Dec 2024.pdf # switch once resume uploaded
 
-  - title: "Other"
-    url: /other/
+  - title: "Contact"
+    url: /contact/
